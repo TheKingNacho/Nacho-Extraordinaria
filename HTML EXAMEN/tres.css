@@ -1,0 +1,23 @@
+.fondo{
+    background-color: antiquewhite;
+
+
+}
+.titulocolor{
+    color: orange;
+    text-align: center;
+
+}
+
+
+.pie1{
+    color: blue;
+    text-align: center;
+
+}
+.footer2{
+    background-color: yellow;
+    height: 75px;
+    position: relative;
+    bottom: -500px;
+}

@@ -1,0 +1,40 @@
+.fondo{
+    background-color: bisque;
+
+
+}
+.titulocolor{
+    color: orange;
+    text-align: center;
+
+}
+.fondot{
+    background-color: lightblue;
+    height: 140px;
+    position: relative;
+    bottom: -156px;
+}
+.tabla{
+    text-align: center;
+    position: relative;
+    left: 690px;
+    color: blue;
+    bottom: -20px;
+}
+
+.mant{
+    text-align: left;
+
+
+}
+.pie1{
+    color: blue;
+    text-align: center;
+
+}
+.footer2{
+    background-color: yellow;
+    height: 75px;
+    position: relative;
+    bottom: -300px;
+}

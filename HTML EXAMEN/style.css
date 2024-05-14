@@ -1,0 +1,79 @@
+.fondo{
+    background-color: bisque;
+
+}
+.titulo{
+    text-align: center;
+}
+.colortitulo{
+    color: orangered;
+}
+.img1{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 300px;
+    bottom: -20px;
+}
+div.div1{
+    background-color: pink;
+    height: 180px;
+
+}
+.smrti{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 340px;
+top: -134px;
+}
+div.div2{
+    background-color: gray;
+    height: 180px;
+
+}
+.smrto{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 940px;
+top: -134px;
+}
+
+.img2{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 800px;
+    bottom: -20px;
+}
+div.div3{
+    background-color: lightblue;
+    height: 180px;
+
+}
+.smrtu{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 1240px;
+top: -134px;
+}
+
+.img3{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 1200px;
+    bottom: -20px;
+}
+.footer1{
+    background-color: yellow;
+    height: 75px;
+
+
+.pie{
+    color: blue;
+    text-align: center;
+
+}}
